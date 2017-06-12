@@ -24,5 +24,7 @@ public class Customer {
 	public void setRetailer(Retailer retailer) {
 		this.retailer = retailer;
 	}
+	
+	//comment from branch-lr-1
 
 }
