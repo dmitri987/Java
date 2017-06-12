@@ -25,6 +25,9 @@ public class Customer {
 		this.retailer = retailer;
 	}
 	
+	
 	//comment from master
+	
+	//comment from branch-lr-1
 
 }
